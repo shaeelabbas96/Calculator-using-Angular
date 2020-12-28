@@ -1,0 +1,53 @@
+.container {
+    background-color: pink;
+}
+
+.mybox {
+    border: 1px solid;
+    text-align: center;
+    padding: 20px;
+}
+
+.displaybox {
+    text-align: center;
+    font-size: 20px;
+    text-align: center;
+    background-color: lightgreen;
+}
+
+.memoryRow {
+    margin-top: 10px;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 10px;
+
+}
+
+.numberRow {
+    margin-top: 10px;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.button {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+    width: 250px;
+    height: 50px;
+    font-size: 15px;
+    background-color: azure;
+    background-color: orange;
+}
+
+.button2 {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+    width: 550px;
+    height: 50px;
+    font-size: 15px;
+    background-color: azure;
+    background-color: orange;
+}
